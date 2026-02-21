@@ -8,6 +8,6 @@ Console-based Tetris in C++. A personal project developed to practice game logic
 
 ## Controls
 * **A** - Move Left
-* D - Move Right
-* S - Move Down (Soft Drop)
-* Space - Hard Drop
+* **D** - Move Right
+* **S** - Move Down (Soft Drop)
+* **Space** - Hard Drop
