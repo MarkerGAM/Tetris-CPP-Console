@@ -9,6 +9,7 @@ Console-based Tetris in C++. A personal project developed to practice game logic
 ### For Basic Using
 1. Move to `Releases`
 2. Download and Run `Tetris.exe`.
+ *Note: Your antivirus might flag the file because it doesn't have a digital signature. This is normal for Python-built executables.*
 
 ## Controls
 * **A** - Move Left
