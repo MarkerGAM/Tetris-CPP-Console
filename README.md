@@ -2,9 +2,13 @@
 Console-based Tetris in C++. A personal project developed to practice game logic and memory management.
 
 ## How to Run
+### For Programers
 1. Open the project in **CLion** or any C++ IDE.
 2. Ensure you are on a **Windows** environment (uses `windows.h` and `conio.h`).
 3. Compile and run `Tetris.exe`.
+### For Basic Using
+1. Move to `Releases`
+2. Download and Run `Tetris.exe`.
 
 ## Controls
 * **A** - Move Left
